@@ -26,7 +26,7 @@ An interactive Power BI dashboard developed to analyze Blinkit's retail sales pe
 - `Dashboard Blinkit.png` – Dashboard screenshot
 
 ## Dashboard Preview 
-![Dashboard](DashboardBlinkit.png)
+![Dashboard](Dashboard%20Blinkit.png)
 
 ---
 Developed by **Anshita Garg**
